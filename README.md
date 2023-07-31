@@ -17,3 +17,4 @@ https://stackoverflow.com/questions/43941245/line-plot-with-data-points-in-panda
 
 save charts to jpeg
 https://stackoverflow.com/questions/8827016/matplotlib-savefig-in-jpeg-format
+https://www.lifewire.com/convert-jpg-to-png-5072559
