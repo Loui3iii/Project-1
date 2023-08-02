@@ -4,7 +4,7 @@ Project1_Group6_OldMain.ipynb
 
 Group Project for UNC Charlotte 
 
-This project stemmed from my team and my own interest in the banking and credit idustry and how credit risk is looked at and how decisions are made.
+This project stemmed from my team and my own interest in the banking and credit industry, and how credit risk is looked at and how decisions are made.
 
 The questions we wanted to answer:
 1. Who is most likely to get approved for a loan?
