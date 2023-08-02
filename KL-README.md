@@ -4,7 +4,7 @@ Project1_Group6_OldMain.ipynb
 
 Group Project for UNC Charlotte 
 
-This project stemmed from my team and my own interest in the banking and credit industry, and how credit risk is looked at and how decisions are made.
+This project stemmed from my team and my own interest in the banking and credit idustry and how credit risk is looked at and how decisions are made.
 
 The questions we wanted to answer:
 1. Who is most likely to get approved for a loan?
@@ -22,6 +22,9 @@ In order to separate total debt per age, I created a dataframe with the sum of a
 This dataframe (all_debt) was used to create a bar chart and line chart, which show that millenials default more than any other age group.
 The bar chart and line chart show the extreme difference in total debt between the different age groups, these charts clearly show what was in the data.
 
+Overall, ages 48 through 56 are least likely to default on a loan, this was discovered through our analysis. 
+Our analysis of income show that the higher the salary income, the more likely to repay debt.
+The oldest age group has the highest salary, they are less likely to default.
 
 Resources
 Examples of credit risk data Bankloans csv file obtained from Kaggle, "Credit Risk for extending Bank Loans"
