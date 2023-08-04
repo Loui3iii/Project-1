@@ -35,9 +35,9 @@ People under the Gen X umbrella have the lowest debt-to-income ratio.
 The riskiest group to loan money to is the group with the most extended accumulated debt: Baby Boomers.
 There is an inverse relationship between income and default rate. Generally, as income increases, the default rate decreases. This can be observed by comparing the default rates in different income bins.
 
+GROUP 6 PRESENTATION
 This presentation thoroughly analyzes a bank loan dataset, exploring the characteristics of individuals who default on their loans. The combination of descriptive statistics and visualizations offers a comprehensive understanding of the data, revealing patterns and correlations that could be instrumental in predicting loan defaults.
 
-GROUP 6 PRESENTATION
 <img width="1233" alt="SLIDE 1" src="https://github.com/Loui3iii/Project-1/assets/135518113/a3b47262-8f9c-4a69-a809-6c70e83a0859">
 <img width="1221" alt="SLIDE 2" src="https://github.com/Loui3iii/Project-1/assets/135518113/024033c4-750d-4a20-846c-5a15d907ae15">
 <img width="1228" alt="SLIDE 3" src="https://github.com/Loui3iii/Project-1/assets/135518113/3d7a9149-0824-46e6-bdea-2760570b8027">
