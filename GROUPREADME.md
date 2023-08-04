@@ -15,17 +15,27 @@ The Notebook then describes the data by providing descriptive statistics for the
 KEY QUESTIONS ANSWERED
 Who is most likely to get approved for a loan?
 How does income effect ability to repay a loan?
-What age is most likely to default?
+What age is most likely to default on a loan?
+
+THE NOTEBOOK CULMINATES IN THE CREATION OF FOUR VISUALIZATION TYPES TO ANALYZE DATA:
+
+Several line and bar graphs were created to structurally display the CSV data to more effectively analyze the dataset to answer the primary questions of this project. These charts were instrumental in clearly reviewing and documenting the information contained in the dataset.
+
+Histogram of Average Income and Count of Defaults for Different Age Groups: This chart visually represents the average income and count of defaults across different age groups. The age groups are created by dividing the 'age' column into five equal intervals. The chart uses a bar plot to show the average income in each age group and a line plot to show the count of defaults. This allows for comparing income levels and default rates across different age groups, which can reveal whether age impacts the likelihood of defaulting.
+
+Boxplot of Age Distribution for Default and Non-Default Cases: This chart uses a boxplot to compare the age distribution for default and non-default cases. A boxplot is a standardized way of displaying the distribution of data based on a five-number summary (minimum, first quartile (Q1), median, third quartile (Q3), and maximum). It can provide valuable insights about age variability in default and non-default cases and whether age is a significant factor in loan default. Bar Chart of Mean Default Rate and Count for Different Income Bins: This chart shows the mean default rate and count for different income bins. The income bins are created by dividing the 'income' column into five equal intervals. The chart uses a bar plot to show the mean default rate in each income bin and a line plot to show the count of individuals. This visualization can help identify if there's a pattern between income levels and default rates.
 
 THE BOTTOMLINE
 Credit risk is a lender’s potential for financial loss to a creditor or the risk that the creditor will default on a loan. Lenders consider several factors when assessing a borrower’s risk, including their income, debt, and repayment history. When a lender sees you as having a greater credit risk, they are less likely to approve you for a loan and more likely to charge you higher interest rates if you do get approved. 
-This presentation thoroughly analyzes a bank loan dataset, exploring the characteristics of individuals who default on their loans. The combination of descriptive statistics and visualizations offers a comprehensive understanding of the data, revealing patterns and correlations that could be instrumental in predicting loan defaults.
+
 Overall, our analysis revealed the following:
 Ages 48-56 are the least likely to default on a loan.
 The higher a person’s income, the more likely they are to repay a loan.
 People under the Gen X umbrella have the lowest debt-to-income ratio.
 The riskiest group to loan money to is the group with the most extended accumulated debt: Baby Boomers.
 There is an inverse relationship between income and default rate. Generally, as income increases, the default rate decreases. This can be observed by comparing the default rates in different income b
+
+This presentation thoroughly analyzes a bank loan dataset, exploring the characteristics of individuals who default on their loans. The combination of descriptive statistics and visualizations offers a comprehensive understanding of the data, revealing patterns and correlations that could be instrumental in predicting loan defaults.
 
 GROUP 6 PRESENTATION
 <img width="1233" alt="SLIDE 1" src="https://github.com/Loui3iii/Project-1/assets/135518113/a3b47262-8f9c-4a69-a809-6c70e83a0859">
