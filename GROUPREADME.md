@@ -16,8 +16,9 @@ Who is most likely to get approved for a loan?
 How does income effect ability to repay a loan?
 What age is most likely to default?
 
+Consumer credit risk consists of the five C’s: credit history, repayment capacity, the loan’s conditions, capital, and associated collateral. Using a CSV file, we analyzed information gathered by online and email surveys. The surveys were taken by interviewing people aged 20-56. We examined this data and determined the risk a bank would take by offering these individuals a loan as outlined in our presentation.
 
-SLIDES FOR GROUP 6 PRESENTATION
+GROUP 6 PRESENTATION
 <img width="1233" alt="SLIDE 1" src="https://github.com/Loui3iii/Project-1/assets/135518113/a3b47262-8f9c-4a69-a809-6c70e83a0859">
 <img width="1221" alt="SLIDE 2" src="https://github.com/Loui3iii/Project-1/assets/135518113/024033c4-750d-4a20-846c-5a15d907ae15">
 <img width="1228" alt="SLIDE 3" src="https://github.com/Loui3iii/Project-1/assets/135518113/3d7a9149-0824-46e6-bdea-2760570b8027">
