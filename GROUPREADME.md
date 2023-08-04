@@ -33,7 +33,7 @@ Ages 48-56 are the least likely to default on a loan.
 The higher a person’s income, the more likely they are to repay a loan.
 People under the Gen X umbrella have the lowest debt-to-income ratio.
 The riskiest group to loan money to is the group with the most extended accumulated debt: Baby Boomers.
-There is an inverse relationship between income and default rate. Generally, as income increases, the default rate decreases. This can be observed by comparing the default rates in different income b
+There is an inverse relationship between income and default rate. Generally, as income increases, the default rate decreases. This can be observed by comparing the default rates in different income bins.
 
 This presentation thoroughly analyzes a bank loan dataset, exploring the characteristics of individuals who default on their loans. The combination of descriptive statistics and visualizations offers a comprehensive understanding of the data, revealing patterns and correlations that could be instrumental in predicting loan defaults.
 
