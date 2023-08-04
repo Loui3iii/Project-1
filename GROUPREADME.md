@@ -1,5 +1,6 @@
 # Project-1
-Group Project for UNC Char
+BANK LOAN CREDIT RISK
+Group 6 Project for UNC Charlotte--Data Visualization Boot Camp
 
 ANALYSIS OF INCOMES AND LOANS OF INDIVIDUALS ALONG WITH THEIR AGES
 
