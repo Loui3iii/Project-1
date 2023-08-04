@@ -11,6 +11,10 @@ Next, the Notebook performs data cleaning to ensure the quality and reliability 
 
 The Notebook then describes the data by providing descriptive statistics for the 'age,' 'income,' and 'default' columns. It calculates the mean and median 'age' and 'income' for each 'default' group, providing a clear picture of these variables' central tendency and dispersion. It also calculates the correlation between 'default' and 'income,' indicating the linear relationship between these two variables.
 
+KEY QUESTIONS ANSWERED
+Who is most likely to get approved for a loan?
+How does income effect ability to repay a loan?
+What age is most likely to default?
 
 
 SLIDES FOR GROUP 6 PRESENTATION
