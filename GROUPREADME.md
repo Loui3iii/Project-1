@@ -12,7 +12,7 @@ Next, the Notebook performs data cleaning to ensure the quality and reliability 
 
 The Notebook then describes the data by providing descriptive statistics for the 'age,' 'income,' and 'default' columns. It calculates the mean and median 'age' and 'income' for each 'default' group, providing a clear picture of these variables' central tendency and dispersion. It also calculates the correlation between 'default' and 'income,' indicating the linear relationship between these two variables.
 
-KEY QUESTIONS ANSWERED
+KEY QUESTIONS ANSWERED:
 
 Who is most likely to get approved for a loan?
 
@@ -62,7 +62,7 @@ This presentation thoroughly analyzes a bank loan dataset, exploring the charact
 <img width="1228" alt="SLIDE 11" src="https://github.com/Loui3iii/Project-1/assets/135518113/3ecdcaab-7004-4090-98a3-aedf23ea8194">
 [GROUP 6 FULL SLIDE PRESENTATION.pdf](https://github.com/Loui3iii/Project-1/files/12256896/GROUP.6.FULL.SLIDE.PRESENTATION.pdf)
 
-Resources
+RESOURCES
 
 Sample Code take from Course/Zoom Meetings
 Code reused from previous data visualization projects
