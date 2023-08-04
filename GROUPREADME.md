@@ -17,7 +17,15 @@ Who is most likely to get approved for a loan?
 How does income effect ability to repay a loan?
 What age is most likely to default?
 
-Consumer credit risk consists of the five C’s: credit history, repayment capacity, the loan’s conditions, capital, and associated collateral. Using a CSV file, we analyzed information gathered by online and email surveys. The surveys were taken by interviewing people aged 20-56. We examined this data and determined the risk a bank would take by offering these individuals a loan as outlined in our presentation.
+THE BOTTOMLINE
+Credit risk is a lender’s potential for financial loss to a creditor or the risk that the creditor will default on a loan. Lenders consider several factors when assessing a borrower’s risk, including their income, debt, and repayment history. When a lender sees you as having a greater credit risk, they are less likely to approve you for a loan and more likely to charge you higher interest rates if you do get approved. 
+This presentation thoroughly analyzes a bank loan dataset, exploring the characteristics of individuals who default on their loans. The combination of descriptive statistics and visualizations offers a comprehensive understanding of the data, revealing patterns and correlations that could be instrumental in predicting loan defaults.
+Overall, our analysis revealed the following:
+Ages 48-56 are the least likely to default on a loan.
+The higher a person’s income, the more likely they are to repay a loan.
+People under the Gen X umbrella have the lowest debt-to-income ratio.
+The riskiest group to loan money to is the group with the most extended accumulated debt: Baby Boomers.
+There is an inverse relationship between income and default rate. Generally, as income increases, the default rate decreases. This can be observed by comparing the default rates in different income b
 
 GROUP 6 PRESENTATION
 <img width="1233" alt="SLIDE 1" src="https://github.com/Loui3iii/Project-1/assets/135518113/a3b47262-8f9c-4a69-a809-6c70e83a0859">
